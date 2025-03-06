@@ -5,16 +5,10 @@ This explores behind the hood of Rate limiters and how they are implemented.
 
 # Note
 
-Use the rate limiter at https://pkg.go.dev/golang.org/x/time/rate for production it [![Rate Limter](https://pkg.go.dev/golang.org/x/time/rate)]
-
-https://pkg.go.dev/golang.org/x/time/rate for production it contains a more rich API context .
+Use the rate limiter at https://pkg.go.dev/golang.org/x/time/rate for production it for production it contains a more rich API context .
 
 # Run locally
 
 ```
    make
-```
-
-```
-   go run mxratelimiter.go
 ```
